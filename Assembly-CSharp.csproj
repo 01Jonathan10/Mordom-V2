@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A68F2C3A-9BF8-3A72-2B50-49CA09AB09D8}</ProjectGuid>
+    <ProjectGuid>{22BA1E9E-1F7B-06D6-BD2F-861CE2829A03}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,6 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Game\Scripts\GameController.cs" />
+     <Compile Include="Assets\Game\Scripts\LevelController.cs" />
+     <Compile Include="Assets\Game\Scripts\Planet.cs" />
+     <Compile Include="Assets\Game\Scripts\Weapon.cs" />
+     <Compile Include="Assets\Game\Scripts\Weapons\Default.cs" />
      <Compile Include="Assets\Menu\Scripts\DontDestroy.cs" />
      <Compile Include="Assets\Menu\Scripts\EventSystemChecker.cs" />
      <Compile Include="Assets\Menu\Scripts\Pause.cs" />
