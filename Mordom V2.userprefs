@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\Constants.cs">
     <Files>
-      <File FileName="Assets\Game\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\GameController.cs" Line="17" Column="1" />
       <File FileName="Assets\Game\Scripts\Planet.cs" Line="1" Column="1" />
       <File FileName="Assets\Game\Scripts\Weapon.cs" Line="1" Column="1" />
-      <File FileName="Assets\Game\Scripts\LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\LevelController.cs" Line="15" Column="18" />
       <File FileName="Assets\Game\Scripts\Weapons\Default.cs" Line="1" Column="1" />
       <File FileName="Assets\Game\Scripts\Alien.cs" Line="1" Column="1" />
       <File FileName="Assets\Game\Scripts\Aliens\Basic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Constants.cs" Line="6" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
