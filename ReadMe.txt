@@ -1,3 +1,4 @@
 
 Mordom locão
-vvhvhvvh
+
+10/10 - IGN
