@@ -60,3 +60,35 @@ C:\Users\jonathan\Documents\CEFET Games\HomeWorld\Temp\bin\Debug\UnityEngine.VR.
 C:\Users\jonathan\Documents\CEFET Games\HomeWorld\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\jonathan\Documents\CEFET Games\HomeWorld\obj\Debug\Assembly-CSharp.dll
 C:\Users\jonathan\Documents\CEFET Games\HomeWorld\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Jonathan\Documents\CEFET Games\Mordom V2\Temp\bin\Debug\UnityEngine.HoloLens.xml

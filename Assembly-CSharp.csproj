@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Game\Scripts\Alien.cs" />
+     <Compile Include="Assets\Game\Scripts\Aliens\Basic.cs" />
+     <Compile Include="Assets\Game\Scripts\Constants.cs" />
      <Compile Include="Assets\Game\Scripts\GameController.cs" />
      <Compile Include="Assets\Game\Scripts\LevelController.cs" />
      <Compile Include="Assets\Game\Scripts\Planet.cs" />
